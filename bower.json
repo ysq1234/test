@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Robert <RobertChen@hcdlearning.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ysq1234/test",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.6",
+    "grunt": "^1.0.1",
+    "jquery": "^3.2.1"
+  }
+}
